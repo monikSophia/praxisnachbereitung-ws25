@@ -1,0 +1,46 @@
+﻿Gerätenummer;Ausgabe am;Rückgabe am;Geraete.Gerätetyp;Geraete.Modell;Geraete.Kaufdatum;Geraete.Netto-Kaufpreis;Geraete.Standort;Mitarbeiter-ID;Mitarbeiter.Name;Mitarbeiter.Abteilung;Mitarbeiter.Standort;Verliehen
+G0004;19062025;8092025;Laptop;Dell XPS;5052025;1007,88;München;1003;Paul Dobes-Stiffel;Produktion;Hamburg;FALSCH
+G0004;11082025;12082025;Laptop;Dell XPS;5052025;1007,88;München;1001;Aleksandr Weinhage;IT;Berlin;FALSCH
+G0005;7042024;;Drucker;Canon Pixma;3112021;823,23;Berlin;1009;Univ.Prof. Heimo Karge;Marketing;Hamburg;WAHR
+G0005;23082025;22092025;Drucker;Canon Pixma;3112021;823,23;Berlin;1006;Eric Patberg B.Sc.;Vertrieb;Hamburg;WAHR
+G0005;3112024;;Drucker;Canon Pixma;3112021;823,23;Berlin;1012;Ariane Klemt-Kaul;IT;München;WAHR
+G0005;30082025;25092025;Drucker;Canon Pixma;3112021;823,23;Berlin;1010;Carolin Hande;IT;Hamburg;WAHR
+G0006;31052025;10062025;Smartphone;Samsung S21;1012024;1257,96;München;1012;Ariane Klemt-Kaul;IT;München;WAHR
+G0006;3072024;;Smartphone;Samsung S21;1012024;1257,96;München;1007;Orhan Siering MBA.;IT;Berlin;WAHR
+G0007;9092024;16072025;Laptop;Lenovo ThinkPad;13062021;869,09;Hamburg;1001;Aleksandr Weinhage;IT;Berlin;WAHR
+G0007;11082025;;Laptop;Lenovo ThinkPad;13062021;869,09;Hamburg;1001;Aleksandr Weinhage;IT;Berlin;WAHR
+G0009;12072025;15072025;Laptop;Dell XPS;10042023;1458,02;München;1011;Auguste Davids;IT;Hamburg;FALSCH
+G0011;29062025;29082025;Drucker;Brother HL;9092025;141,71;München;1005;Alexandre Davids;Vertrieb;Berlin;FALSCH
+G0013;7052024;27062024;Drucker;Canon Pixma;16052021;1898,65;Hamburg;1012;Ariane Klemt-Kaul;IT;München;FALSCH
+G0013;28012024;26022025;Drucker;Canon Pixma;16052021;1898,65;Hamburg;1009;Univ.Prof. Heimo Karge;Marketing;Hamburg;FALSCH
+G0014;26112024;3032025;Laptop;Lenovo ThinkPad;3032021;1415,97;Hamburg;1001;Aleksandr Weinhage;IT;Berlin;FALSCH
+G0015;26032024;17082025;Smartphone;iPhone 13;20092022;661,44;München;1010;Carolin Hande;IT;Hamburg;WAHR
+G0015;15082024;;Smartphone;iPhone 13;20092022;661,44;München;1002;Eleni Hauffer;IT;Berlin;WAHR
+G0016;8022024;9062025;Drucker;Canon Pixma;30032023;1501,06;Berlin;1003;Paul Dobes-Stiffel;Produktion;Hamburg;WAHR
+G0016;22052025;31052025;Drucker;Canon Pixma;30032023;1501,06;Berlin;1002;Eleni Hauffer;IT;Berlin;WAHR
+G0016;28072025;;Drucker;Canon Pixma;30032023;1501,06;Berlin;1010;Carolin Hande;IT;Hamburg;WAHR
+G0016;18052025;8072025;Drucker;Canon Pixma;30032023;1501,06;Berlin;1007;Orhan Siering MBA.;IT;Berlin;WAHR
+G0016;31052025;2102025;Drucker;Canon Pixma;30032023;1501,06;Berlin;1010;Carolin Hande;IT;Hamburg;WAHR
+G0018;3102024;27112024;Tablet;iPad;5102022;1688,07;München;1011;Auguste Davids;IT;Hamburg;FALSCH
+G0021;30092025;5102025;Monitor;Samsung Curved;22022023;1134,16;München;1008;Dipl.-Ing. Klaus-Werner Holsten B.Sc.;IT;Hamburg;FALSCH
+G0022;30082025;30092025;Tablet;iPad;20082024;1591,98;Hamburg;1002;Eleni Hauffer;IT;Berlin;FALSCH
+G0022;20072024;6012025;Tablet;iPad;20082024;1591,98;Hamburg;1002;Eleni Hauffer;IT;Berlin;FALSCH
+G0024;24032024;;Monitor;Dell UltraSharp;1032022;750,91;Berlin;1008;Dipl.-Ing. Klaus-Werner Holsten B.Sc.;IT;Hamburg;WAHR
+G0024;27032025;30072025;Monitor;Dell UltraSharp;1032022;750,91;Berlin;1005;Alexandre Davids;Vertrieb;Berlin;WAHR
+G0025;18012025;;Beamer;Epson EB;6122023;545,46;Berlin;1005;Alexandre Davids;Vertrieb;Berlin;WAHR
+G0027;21042024;1072025;Monitor;Samsung Curved;24072022;501,64;München;1004;Klemens Löffler;Vertrieb;Hamburg;FALSCH
+G0028;19082024;;Beamer;Epson EB;19012023;1246,58;Hamburg;1004;Klemens Löffler;Vertrieb;Hamburg;WAHR
+G0028;4122024;16032025;Beamer;Epson EB;19012023;1246,58;Hamburg;1006;Eric Patberg B.Sc.;Vertrieb;Hamburg;WAHR
+G0028;30102024;4122024;Beamer;Epson EB;19012023;1246,58;Hamburg;1003;Paul Dobes-Stiffel;Produktion;Hamburg;WAHR
+G0029;21092025;4102025;Laptop;Lenovo ThinkPad;21052021;1553,15;Hamburg;1002;Eleni Hauffer;IT;Berlin;FALSCH
+G0030;15052025;5092025;Beamer;Epson EB;27032022;1629,76;München;1012;Ariane Klemt-Kaul;IT;München;FALSCH
+G0030;1122023;24092024;Beamer;Epson EB;27032022;1629,76;München;1005;Alexandre Davids;Vertrieb;Berlin;FALSCH
+G0031;29012024;;Laptop;HP EliteBook;28042025;1095,62;München;1004;Klemens Löffler;Vertrieb;Hamburg;WAHR
+G0031;14022024;;Laptop;HP EliteBook;28042025;1095,62;München;1004;Klemens Löffler;Vertrieb;Hamburg;WAHR
+G0032;4082024;2082025;Laptop;Lenovo ThinkPad;11112022;1801,36;München;1003;Paul Dobes-Stiffel;Produktion;Hamburg;FALSCH
+G0033;24032025;7052025;Beamer;BenQ MW550;3032022;1212,29;Berlin;1009;Univ.Prof. Heimo Karge;Marketing;Hamburg;WAHR
+G0033;25032025;;Beamer;BenQ MW550;3032022;1212,29;Berlin;1002;Eleni Hauffer;IT;Berlin;WAHR
+G0035;9052024;;Beamer;BenQ MW550;3012024;644,54;Berlin;1009;Univ.Prof. Heimo Karge;Marketing;Hamburg;WAHR
+G0035;6012024;;Beamer;BenQ MW550;3012024;644,54;Berlin;1001;Aleksandr Weinhage;IT;Berlin;WAHR
+G0035;5052024;;Beamer;BenQ MW550;3012024;644,54;Berlin;1003;Paul Dobes-Stiffel;Produktion;Hamburg;WAHR
+G0035;15122024;;Beamer;BenQ MW550;3012024;644,54;Berlin;1001;Aleksandr Weinhage;IT;Berlin;WAHR
